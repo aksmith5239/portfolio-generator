@@ -12,6 +12,7 @@ inquirer
         }
     ])
 .then(answers => console.log(answers));
+
 // const pageHTML = generatePage(name. github);
 
 // fs.writeFile('./index.html', pageHTML, err => {
